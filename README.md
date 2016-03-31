@@ -4,7 +4,6 @@ WaM-DaM is a persistent information model (like a standard for a database) to he
 
 Think of WaM-DaM as a repository of water management data (purple cylinder) and a translator between numerous data sources on the left and different models on the right (see flowchart). WaM-DaM translates two aspects of the data: the syntax (i.e., structure) and semantics (terminology). WaM-DaM will speed the time to find, organize, and synthesize data from different data sources, and prepare data for modeling.     
 
-<img src="https://github.com/amabdallah/WaM-DaM/blob/master/01Documentation/01Design/WaM-DaM_workflow.jpg" alt="Drawing" style="width: 100px;"/>     
 
 **This GitHub repository is organized to direct you to**   
 **i)** Understand WaM-DaM design and its schema,    
